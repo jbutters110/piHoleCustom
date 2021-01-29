@@ -17,6 +17,8 @@ logs.amap.com
 sock186-mt1.pusher.com
 beacons.gcp.gvt2.com
 cdn.samsungcloudsolution.com
+location.services.mozilla.com
+ip-api.com
 
 # This is a blocklist to block samsung smart tv's sending meta data at home.
 # Please help to collect domains!
