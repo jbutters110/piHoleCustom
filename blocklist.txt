@@ -95,3 +95,6 @@ vdterms.samsungcloudsolution.com
 www.samsungotn.net
 www.samsungrm.net
 xpu.samsungelectronics.com
+
+tvpnlinupepgpeu.samsungcloud.tv
+osb-apps.samsungqbe.com
